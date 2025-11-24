@@ -1,0 +1,6 @@
+com\designpattern\factory\Shape.class
+com\designpattern\factory\FactoryPatternDemo.class
+com\designpattern\factory\Rectangle.class
+com\designpattern\factory\ShapeFactory.class
+com\designpattern\factory\Circle.class
+com\designpattern\factory\Square.class
