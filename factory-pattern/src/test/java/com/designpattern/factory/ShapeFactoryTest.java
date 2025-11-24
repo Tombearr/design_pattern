@@ -1,5 +1,6 @@
 package com.designpattern.factory;
 
+import com.designpattern.factory.simpleFactory.demo1.*;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

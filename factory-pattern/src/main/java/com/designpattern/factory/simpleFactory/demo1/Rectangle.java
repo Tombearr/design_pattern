@@ -1,4 +1,4 @@
-package com.designpattern.factory;
+package com.designpattern.factory.simpleFactory.demo1;
 
 /**
  * 矩形 - 具体产品类
